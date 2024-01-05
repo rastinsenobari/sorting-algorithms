@@ -11,6 +11,12 @@ O(n^2)
 - Best-case <br/>
 O(n)
 
+## Insertion Sort
+- Worst-case <br/>
+O(n^2)
+- Best-case <br/>
+O(n)
+
 ## Merge Sort
 - Complexity <br/>
 T(n) = 2T(n/2) + n  =>  T(n) є θ(n log n)
